@@ -1,5 +1,6 @@
 # 欢迎来到南昌理工学院 余蒙 的个人主页！[点击跳转](https://yumeng-nut.github.io/)
-[这里放上我的帅照](./img/fbd6b46058d2c947.jpg)
+![fbd6b46058d2c947](https://github.com/user-attachments/assets/f0ab2051-5ec0-49e2-8505-fdcedf08999a)
+
 
 # 欢迎来我的母校南昌理工学院就读！
 
