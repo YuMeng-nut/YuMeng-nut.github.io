@@ -1,8 +1,5 @@
-# 欢迎来到南昌理工学院 余蒙 的个人主页！[点击跳转](https://yumeng-nut.github.io/)
+# 欢迎来到 余蒙 的个人主页！[点击跳转](https://yumeng-nut.github.io/)
 ![fbd6b46058d2c947](https://github.com/user-attachments/assets/f0ab2051-5ec0-49e2-8505-fdcedf08999a)
-
-
-# 欢迎来我的母校南昌理工学院就读！
 
 * [**我光荣的被评选为南昌理工学院的优秀校友！**](http://jsj.nut.edu.cn/html/902/2022-12-13/content-1857.html)
 * [学校近年来考研升学取得好成绩！](https://www.nut.edu.cn/cms/item-view-id-4813.shtml)
