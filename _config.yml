@@ -1,10 +1,10 @@
 # Site settings
-title: 南理余总
-SEOTitle: 黄家理工学院 | 余蒙
+title: 余蒙
+SEOTitle: 余蒙
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 18296174338@163.com
 description: "Every failure is leading towards success."
-keyword: "南昌理工余蒙, 传爱集团余蒙， 南理余蒙"
+keyword: "南昌理工余蒙, 传爱集团余蒙"
 url: "https://yumeng-nut.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YuMeng-nut" # you code repository
