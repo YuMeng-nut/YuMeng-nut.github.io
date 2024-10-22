@@ -3,7 +3,7 @@
 
 # 欢迎来我的母校南昌理工学院就读！
 
-* [`我光荣的评选为南昌理工学院的优秀校友！`](http://jsj.nut.edu.cn/html/902/2022-12-13/content-1857.html)
+* [**我光荣的被评选为南昌理工学院的优秀校友！**](http://jsj.nut.edu.cn/html/902/2022-12-13/content-1857.html)
 * [学校近年来考研升学取得好成绩！](https://www.nut.edu.cn/cms/item-view-id-4813.shtml)
 * [学校大力支持并奖励考研优胜单位与个人！](https://www.nut.edu.cn/cms/item-view-id-4920.shtml)
 * [在南昌理工学院就读是一种什么体验？](https://www.zhihu.com/question/38708907)
