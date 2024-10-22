@@ -12,18 +12,16 @@ github_repo: "https://github.com/YuMeng-nut" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/PersonalImage.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     换成自己的用户名
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# weibo_username:   换成自己的用户名
+zhihu_username:     萌萌哒的小余
+github_username:    YuMeng-nut
+CSDN_username:      Jerry 二河小鱼
 
 
 
