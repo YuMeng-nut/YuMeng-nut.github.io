@@ -1,7 +1,7 @@
 # Site settings
 title: 余蒙
 SEOTitle: 余蒙
-header-img: img/post-bg-desk.jpg
+header-img: img/33-7.jpeg
 email: 18296174338@163.com
 description: "Every failure is leading towards success."
 keyword: "南昌理工余蒙, 传爱集团余蒙"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/YuMeng-nut" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/QQ图片20241022094245.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/QQ图片20241022094245.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
