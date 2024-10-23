@@ -97,8 +97,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"      # 换成自己的链接
+        title: "LinkedIn",
+        href: "https://www.linkedin.com/in/%E8%92%99-%E4%BD%99-698813163/?originalSubdomain=cn"      # 换成自己的链接
     },{
         title: "Apple",
         href: "https://apple.com"
